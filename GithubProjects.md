@@ -38,6 +38,7 @@
 11. https://github.com/manku-timma/spark
 12. https://github.com/joseratts/Spark
 13. https://github.com/giocode/SparkTutorial
+14. https://github.com/cotdp/spark-example-clickstream-social
 
 ## Spark Machine Learning
 1. https://github.com/PredictionIO/PredictionIO
