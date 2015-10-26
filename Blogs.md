@@ -4,6 +4,7 @@
 
 # Freshers
 - [AmpCamp](http://ampcamp.berkeley.edu/)  
+- [VisualApi](http://training.databricks.com/visualapi.pdf)
 
 # Must Read list
 ##Introduction
