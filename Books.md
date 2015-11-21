@@ -5,3 +5,4 @@
 3. **Advanced Analytics with Spark Patterns for Learning from Data at Scale**  by Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills  
 4. **Machine Learning with Spark** by Nick Pentreath  
 5. [Databricks GitBook](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)  
+6. [Jaceklaskowski Gitbooks](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
