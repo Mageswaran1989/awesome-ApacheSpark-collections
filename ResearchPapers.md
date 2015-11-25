@@ -8,4 +8,8 @@
 - [Shark](http://people.csail.mit.edu/matei/papers/2013/sigmod_shark.pdf)
 - [RDD](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)
 - [Spark](http://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf)
+- [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/papers/spark-liblinear/spark-liblinear.pdf)
+- [LBGFS-MR](http://papers.nips.cc/paper/5333-large-scale-l-bfgs-using-mapreduce.pdf)
+
+
 
