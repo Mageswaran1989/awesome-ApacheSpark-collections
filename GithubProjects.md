@@ -57,6 +57,7 @@
 ### Sql
 1. https://github.com/rnamboodiri/spark-cassandra-integrations
 2. https://github.com/choi258/Spark_apache
+3. https://github.com/datastax/spark-cassandra-connector
 
 ### MLLib
 1. https://github.com/OndraFiedler/spark-recommender
