@@ -47,6 +47,7 @@
 11. https://github.com/eenov8/apacheSpark
 12. https://github.com/yu-iskw/spark-dataframe-introduction
 13. https://github.com/rajanpupa/ApacheSparkExample
+14. https://github.com/XD-DENG/Spark-practice
 
 ### Streaming
 1. https://github.com/prabeesh/SparkTwitterAnalysis
