@@ -122,3 +122,4 @@
 1. https://github.com/andypetrella/spark-notebook
 2. https://github.com/ibm-et/spark-kernel
 3. https://github.com/mraad/SparkProject
+4. https://github.com/saurfang/sbt-spark-submit
