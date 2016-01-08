@@ -12,4 +12,5 @@ Book keeping of Apache Spark web search!
 # Other github **awesome** links
 - [Datasciene](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [DataSets](https://github.com/caesar0301/awesome-public-datasets)
+- [DataSets](https://github.com/caesar0301/awesome-public-datasets)  
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata)  
