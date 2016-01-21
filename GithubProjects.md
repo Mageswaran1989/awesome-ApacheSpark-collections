@@ -13,6 +13,7 @@
 1. https://github.com/JerryLead/SparkInternals
 
 ## Spark Learning/Workshop
+0. https://github.com/Mageswaran1989/aja  
 1. https://github.com/deanwampler/spark-workshop
 2. https://github.com/ceteri/spark-exercises
 3. https://github.com/lenards/explore-spark
@@ -31,6 +32,7 @@
 16. https://github.com/dhesse/SparkTalk
 17. https://github.com/adamliesko/bigdata-spark
 18. https://github.com/skrusche63/spark-connect
+19. https://github.com/spirom/LearningSpark  
 
 ## Simple Examples
 ### Spark
