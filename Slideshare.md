@@ -1,2 +1,2 @@
-# www.slideshare.net
 - [How Apache Spark fits into the Big Data landscape](http://www.slideshare.net/pacoid/how-spark-fits-into-the-big-data-landscape?next_slideshow=1)
+- [Spark Shuffle](http://www.scribd.com/doc/295013474/Sparkshuffleintroduction-141228034437-Conversion-Gate01#scribd)
