@@ -10,3 +10,7 @@
 
 #Spark SQL  
 - [Hive + Spark](http://www.slideshare.net/hortonworks/hive-on-spark-is-blazing-fast-or-is-it-final)  
+  
+#Distributed Data-Parallel Programming   
+- http://heather.miller.am/teaching/cs212/slides/    
+
