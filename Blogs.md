@@ -22,4 +22,7 @@
 - [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
 
 ## Streaming
-- [Integrating Kafka and Spark Streaming](http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/)
+- [Integrating Kafka and Spark Streaming](http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/)  
+
+##### Tips & Tricks  
+-http://blog.smaato.com/tuning-spark-streaming-applications/  
