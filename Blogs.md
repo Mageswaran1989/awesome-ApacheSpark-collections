@@ -1,6 +1,7 @@
 # Blog posts on Apache Spark
-- [Cloudera](http://blog.cloudera.com/blog/category/spark/)
-- [DataBricks](https://databricks.com/blog)
+- [Cloudera](http://blog.cloudera.com/blog/category/spark/)  
+- [Cloudera Spark UseCases](https://blog.cloudera.com/blog/category/use-case/)  
+- [DataBricks](https://databricks.com/blog)  
 
 # Freshers
 - [AmpCamp](http://ampcamp.berkeley.edu/)  
