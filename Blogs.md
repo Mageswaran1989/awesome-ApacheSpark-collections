@@ -16,6 +16,9 @@
     - http://imranrashid.com/posts/Spark-Accumulators/  
     - http://stackoverflow.com/questions/29494452/when-are-accumulators-truly-reliable  
       
+## Spark + Hadoop  
+- [Spark and HDFS](http://www.ccs.neu.edu/home/cbw/spark.html)  
+
 ## Spark Internals
 - [Spark Internals](https://github.com/JerryLead/SparkInternals)
   
