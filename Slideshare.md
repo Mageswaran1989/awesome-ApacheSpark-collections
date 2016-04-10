@@ -6,6 +6,7 @@
 - [Practical Machine Learning Pipelines](http://www.slideshare.net/databricks/practical-machine-learning-pipelines-with-mllib?qid=582df953-fe63-45c3-aa5a-d090eccc60dc&v=qf1&b=&from_search=12)  
  
 #Spark Streaming  
+-[Four Things to Know About Reliable Spark Streaming with Typesafe and Databricks](http://www.slideshare.net/Typesafe_Inc/four-things-to-know-about-reliable-spark-streaming-with-typesafe-and-databricks)  
 -[Bloom Filter](http://bravenewgeek.com/tag/bloom-filters/)
 
 #Spark SQL  
