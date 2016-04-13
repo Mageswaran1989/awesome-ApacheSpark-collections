@@ -10,6 +10,7 @@
 - [Spark](http://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf)
 - [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/papers/spark-liblinear/spark-liblinear.pdf)
 - [LBGFS-MR](http://papers.nips.cc/paper/5333-large-scale-l-bfgs-using-mapreduce.pdf)
+- [Performance and Scalability of Broadcast in Spark](http://www.cs.berkeley.edu/~agearh/cs267.sp10/files/mosharaf-spark-bc-report-spring10.pdf)
 
 
 
