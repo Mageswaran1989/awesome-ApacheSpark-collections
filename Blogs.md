@@ -28,6 +28,7 @@
 
 ## Streaming
 - [Integrating Kafka and Spark Streaming](http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/)  
+- http://www.infoq.com/articles/apache-spark-streaming  
 
 ##### Tips & Tricks  
 -http://blog.smaato.com/tuning-spark-streaming-applications/  
