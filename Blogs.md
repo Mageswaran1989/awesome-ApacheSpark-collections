@@ -2,7 +2,7 @@
 - [Cloudera](http://blog.cloudera.com/blog/category/spark/)  
 - [Cloudera Spark UseCases](https://blog.cloudera.com/blog/category/use-case/)  
 - [DataBricks](https://databricks.com/blog)  
-
+- [Hortonworks](http://hortonworks.com/blog/category/spark/)
 # Freshers
 - [AmpCamp](http://ampcamp.berkeley.edu/)  
 - [VisualApi](http://training.databricks.com/visualapi.pdf)
