@@ -33,5 +33,9 @@
 - [Integrating Kafka and Spark Streaming](http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/)  
 - http://www.infoq.com/articles/apache-spark-streaming  
 
+## Spark on GPU / DeepLearning
+- https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html
+- https://databricks.com/blog/2016/12/21/deep-learning-on-databricks.html
+- https://docs.databricks.com/applications/deep-learning/tensorflow.html
 ##### Tips & Tricks  
 -http://blog.smaato.com/tuning-spark-streaming-applications/  
