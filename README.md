@@ -72,6 +72,16 @@ Mohammed Guller
 ##### Tips & Tricks  
 -http://blog.smaato.com/tuning-spark-streaming-applications/  
 
+# Spark Packages
+- http://spark-packages.org/
+
+## File I/O
+- [CSV](https://github.com/databricks/spark-csv)
+
+## Neo4j
+ - [Neo4j-Spark Connector] (https://github.com/neo4j-contrib/neo4j-spark-connector)
+ 
+
 # Github Projects  
 
 ### Setup
