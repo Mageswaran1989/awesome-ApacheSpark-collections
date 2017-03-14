@@ -2,9 +2,6 @@
 Book keeping of Apache Spark web search!
 Also a curated list of awesome Apache Spark packages and resources.
 
-# Online Free Clusters
-- [DataBricks](https://community.cloud.databricks.com)
-
 # Other github **awesome** links
 - [Datasciene](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -12,6 +9,16 @@ Also a curated list of awesome Apache Spark packages and resources.
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)  
 - [Pipelines](https://github.com/pditommaso/awesome-pipeline)  
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
+
+# Online Free Clusters
+- [DataBricks](https://community.cloud.databricks.com)
+
+# Notebooks and IDEs
+
+* [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
+* [Spark Notebook](https://github.com/andypetrella/spark-notebook) - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
+* [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks.
 
 # Books on Apache Spark
 
@@ -95,39 +102,6 @@ Mohammed Guller
 - [Popular Apache Spark & Machine learning videos](https://www.youtube.com/playlist?list=PLIxzgeMkSrQ8Pq30lCaHmYA7r_Qprg6-H)
 - [Popular Videos - Apache Spark & Tutorial](https://www.youtube.com/playlist?list=PLIxzgeMkSrQ-0XQ-_twZq6pxPEALLN5-9)
 - [Popular Videos - Apache Spark](https://www.youtube.com/playlist?list=PLIxzgeMkSrQ9CzshSkA16tizyDlhtxthB)
-
-## To start off
-
-###2013
-####Spark Streaming 
-- [Deep Dive](http://www.meetup.com/spark-users/events/122694912/)
-
-###2014-2015
-- [An Overview of Apache Spark](https://www.youtube.com/watch?v=mL5dQ_1gkiA)
-- [Data Science with Apache Spark](https://www.youtube.com/watch?v=oTOgaMZkBKQ)
-
-###Machine Learning
-- []()
-
-###ML Pipeline
-- [Creating an end-to-end machine learning data pipeline](https://www.youtube.com/watch?v=NR1MYg_7oSg&list=PLIxzgeMkSrQ8Pq30lCaHmYA7r_Qprg6-H)
-- []()
-
-#### DataFrames
-- [Spark DataFrames + Spark on Google GCP](https://www.youtube.com/watch?v=6axUqHCu__Y)
-
-#### SQL
-- [Structured data processing with Spark SQL](https://www.youtube.com/watch?v=0jd3EWmKQfo)
-
-#Advanced Topics
-- [Anatomy of RDD : Deep dive into Spark RDD abstraction](https://www.youtube.com/watch?v=WVdyuVwWcBc)
-- [Advanced Apache Spark](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
-- [Diving into Apache Spark Internals ](https://www.youtube.com/watch?v=gd4Jqtyo7mM)
-
-## Time Capsules
-- [Parallel programming with Spark Presented by Matei Zaharia UC Berkeley AmpLab 2013](https://www.youtube.com/watch?v=e-56inQL5hQ&list=PL6JoIrhJBF9QIDRoKswsFW3itTe1hmKge&index=5)
-- [Introduction to AmpLab Spark Internals](https://www.youtube.com/watch?v=49Hr5xZyTEA&list=PL6JoIrhJBF9QIDRoKswsFW3itTe1hmKge&index=6)
-
 
 # Github Projects  - Ever Growing List!
 
