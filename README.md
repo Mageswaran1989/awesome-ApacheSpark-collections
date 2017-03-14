@@ -1,5 +1,5 @@
 # awesome-ApacheSpark-collections or Awesome Spark
-Book keeping of Apache Spark web search!
+Book keeping of Apache Spark web search!   
 Also a curated list of awesome Apache Spark packages and resources.
 
 # Other github **awesome** links
@@ -22,6 +22,7 @@ Also a curated list of awesome Apache Spark packages and resources.
 
 # Books on Apache Spark
 
+- [Spark Internals](https://github.com/JerryLead/SparkInternals)
 - [Mastering Apache Spark 2.0](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 - [Jaceklaskowski Gitbooks](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)  
 - [RDD Collection API Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)  
@@ -44,9 +45,6 @@ Mohammed Guller
 - [Cloudera Spark UseCases](https://blog.cloudera.com/blog/category/use-case/)  
 - [DataBricks](https://databricks.com/blog)  
 - [Hortonworks](http://hortonworks.com/blog/category/spark/)
- 
-
-### Freshers
 - [AmpCamp](http://ampcamp.berkeley.edu/)  
 - [VisualApi](http://training.databricks.com/visualapi.pdf)
 
@@ -64,7 +62,7 @@ Mohammed Guller
 - [Spark + HBase + HDFS](https://dzone.com/articles/sample-app-hbase-spark-hdfs)  
 
 ### Spark Internals
-- [Spark Internals](https://github.com/JerryLead/SparkInternals)
+
   
 ### SparkSQL
 - [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
@@ -82,12 +80,8 @@ Mohammed Guller
 
 # Spark Packages
 - http://spark-packages.org/
-
-## File I/O
-- [CSV](https://github.com/databricks/spark-csv)
-
-## Neo4j
- - [Neo4j-Spark Connector] (https://github.com/neo4j-contrib/neo4j-spark-connector)
+- File I/O [CSV](https://github.com/databricks/spark-csv)
+- Neo4j [Neo4j-Spark Connector] (https://github.com/neo4j-contrib/neo4j-spark-connector)
  
 # Videos on Apache Spark
 
@@ -139,7 +133,6 @@ Mohammed Guller
 18. https://github.com/skrusche63/spark-connect
 19. https://github.com/spirom/LearningSpark  
 
-## Simple Examples
 ### Spark
 1. https://github.com/hohonuuli/sparknotebook
 2. https://github.com/googlegenomics/spark-examples
