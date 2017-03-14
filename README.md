@@ -1,5 +1,6 @@
-# awesome-ApacheSpark-collections
+# awesome-ApacheSpark-collections or Awesome Spark
 Book keeping of Apache Spark web search!
+Also a curated list of awesome Apache Spark packages and resources.
 
 # Online Free Clusters
 - [DataBricks](https://community.cloud.databricks.com)
